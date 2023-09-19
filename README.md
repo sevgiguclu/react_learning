@@ -1,1 +1,1 @@
-# react_learning
+# React çalışırken öğrendiğim yapıları burada örnekler yaparak pekiştireceğim
